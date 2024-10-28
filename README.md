@@ -13,6 +13,7 @@ This repository contains a collection of SQL queries aimed at enhancing system s
     - [Retrieving All Employees Not in IT](#retrieving-all-employees-not-in-it)
 3. [Screenshots](#screenshots)
 4. [Summary](#summary)
+5. [Note](#note)
 
 ## 1.Project Overview
 

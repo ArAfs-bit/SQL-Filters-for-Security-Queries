@@ -3,8 +3,8 @@
 This repository contains a collection of SQL queries aimed at enhancing system security by retrieving specific login and employee information. Each query is designed to address unique security or administrative needs, such as filtering login attempts outside business hours, retrieving employee details for department-specific updates, and more. These examples demonstrate the practical application of SQL filters for managing and securing organizational data.
 
 ## Table of Contents
-[Project Overview](#project-overview)
-[Queries](#queries)
+- [Project Overview](#project-overview)
+- [Queries](#queries)
     - [After Hours Login Attempts](#1-after-hours-login-attempts)
     - [Login Attempts on Specific Dates](#2-login-attempts-on-specific-dates)
     - [Login Attempts Outside of Mexico](#3-login-attempts-outside-of-mexico)
@@ -12,8 +12,8 @@ This repository contains a collection of SQL queries aimed at enhancing system s
     - [Retrieving Employees in Finance or Sales](#5-retrieving-employees-in-finance-or-sales)
     - [Retrieving All Employees Not in IT](#6-retrieving-all-employees-not-in-it)
 
-[Summary](#summary)
-[Note](#note)
+- [Summary](#summary)
+- [Note](#note)
 
 ## Project Overview
 

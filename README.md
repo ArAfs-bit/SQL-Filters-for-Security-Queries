@@ -11,7 +11,6 @@ This repository contains a collection of SQL queries aimed at enhancing system s
     - [Retrieving Employees in Marketing](#4-retrieving-employees-in-marketing)
     - [Retrieving Employees in Finance or Sales](#5-retrieving-employees-in-finance-or-sales)
     - [Retrieving All Employees Not in IT](#6-retrieving-all-employees-not-in-it)
-
 - [Summary](#summary)
 - [Note](#note)
 

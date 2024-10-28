@@ -98,3 +98,7 @@ WHERE department != 'IT';
 ## Summary
 
 This project applies various SQL filtering techniques to login and employee data. By using the `AND`, `OR`, and `NOT` operators, as well as `LIKE` and wildcard characters, these queries provide targeted insights into login activities and departmental employee information, supporting enhanced security measures and efficient system management.
+
+## Note
+The SQL queries in this repository were executed in a lab environment provided by Google’s certification program, which used `MariaDB` as the default database user. This setup does not reflect the user's personal environment and was used solely for demonstration and educational purposes.
+

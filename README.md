@@ -30,7 +30,7 @@ WHERE login_time > '18:00' AND success = FALSE;
 ```
 
 **Screenshot**:  
-![After Hours Login Attempts](Screenshots/After_Hours_Login_Attempts.png.png)
+![After Hours Login Attempts](Screenshots/After_Hours_Login_Attempts.png)
 
 ### b. Login Attempts on Specific Dates
 Retrieves all login attempts that took place on 2022-05-08 and 2022-05-09. This query assists in investigating any suspicious activities on specific dates.
